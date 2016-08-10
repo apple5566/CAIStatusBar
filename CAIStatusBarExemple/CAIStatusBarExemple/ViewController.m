@@ -15,11 +15,7 @@
 
 @implementation ViewController
 
-- (void)viewDidLoad {
-    [super viewDidLoad];
-    
-    NSLog(@"请修改这里");
-}
+
 
 /**显示 */
 - (IBAction)show {
