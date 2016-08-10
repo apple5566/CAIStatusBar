@@ -17,7 +17,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"请修改这里");
 }
 
 /**显示 */
@@ -48,6 +49,11 @@
 - (IBAction)hide {
     
     [CAIStatusBar hide];
+}
+
+- (void)showxxx
+{
+    
 }
 
 @end
