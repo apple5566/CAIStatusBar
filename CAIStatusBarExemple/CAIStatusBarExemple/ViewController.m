@@ -16,6 +16,7 @@
 @implementation ViewController
 
 
+
 /**显示 */
 - (IBAction)show {
     
@@ -44,6 +45,11 @@
 - (IBAction)hide {
     
     [CAIStatusBar hide];
+}
+
+- (void)showxxx
+{
+    
 }
 
 @end
